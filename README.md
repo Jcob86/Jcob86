@@ -7,6 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/jakub-%C5%BCmudzi%C5%84ski-692065251/">Linkedin Profile</a>
+<a href="mailto: kubaz8645@gmail.com">kubaz8645@gmail.com</a>
 <p align="left">
 </p>
 
