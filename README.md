@@ -6,8 +6,12 @@
 - 👯 If you're **looking someone to collaborate with and you think I'm the right person, please reach me on my email or linkedin**
 
 <h3 align="left">Connect with me:</h3>
+<div>
 <a href="https://www.linkedin.com/in/jakub-%C5%BCmudzi%C5%84ski-692065251/">Linkedin Profile</a>
+</div>
+<div>
 <a href="mailto: kubaz8645@gmail.com">kubaz8645@gmail.com</a>
+</div>
 <p align="left">
 </p>
 
