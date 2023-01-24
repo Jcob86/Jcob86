@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jacob</h1>
 <h3 align="center">A Backend/Fullstack developer from Poland</h3>
 
-- 🔭 I’m currently working on **my commercial and also my own projects**
+- 🔭 I’m currently working on **commercial and also my own projects**
 
 - 👯 If you're **looking someone to collaborate with and you think I'm the right person, please reach me on my email or linkedin**
 
